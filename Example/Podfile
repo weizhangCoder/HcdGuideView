@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HcdGuideView_Example' do
+  pod 'HcdGuideView', :path => '../'
+
+  target 'HcdGuideView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
