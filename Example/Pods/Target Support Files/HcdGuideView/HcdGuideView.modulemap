@@ -1,0 +1,6 @@
+framework module HcdGuideView {
+  umbrella header "HcdGuideView-umbrella.h"
+
+  export *
+  module * { export * }
+}

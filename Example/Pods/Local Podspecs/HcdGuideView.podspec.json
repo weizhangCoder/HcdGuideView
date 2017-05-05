@@ -1,0 +1,22 @@
+{
+  "name": "HcdGuideView",
+  "version": "0.1.0",
+  "summary": "简单的引导页 HcdGuideView.",
+  "description": "TODO: 简单的引导页 HcdGuideView.",
+  "homepage": "https://github.com/weizhangCoder/HcdGuideView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weizhangCoder": "zhang.wei5@jyall.com"
+  },
+  "source": {
+    "git": "https://github.com/weizhangCoder/HcdGuideView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HcdGuideView/Classes/**/*"
+}

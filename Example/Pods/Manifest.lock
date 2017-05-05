@@ -1,0 +1,16 @@
+PODS:
+  - HcdGuideView (0.1.0)
+
+DEPENDENCIES:
+  - HcdGuideView (from `../`)
+
+EXTERNAL SOURCES:
+  HcdGuideView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HcdGuideView: 007503b29e1cefa9a10cfb2d550a8c2c8e5c5d86
+
+PODFILE CHECKSUM: 27f60f500274d05fe142b57ac0cc79d05a6c6cb7
+
+COCOAPODS: 1.2.0.beta.1
